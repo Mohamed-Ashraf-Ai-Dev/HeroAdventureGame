@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.HeroAdventure" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+</resources>
